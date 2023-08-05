@@ -25,10 +25,6 @@ Created my firewall rules to accept all traffic:  <br/>
 <img src="https://i.imgur.com/qSiAhXA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Created a Log Analytics workspace: <br/>
-<img src="https://i.imgur.com/8OYYfcI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
  Connected Log Analytics to my VM (NO PICTURE)
  <br />
  <br />
